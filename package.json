@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "displayName": "Spark TTS Unity",
   "description": "Unity package for using Spark-TTS on-device models",
-  "unity": "2022.0",
+  "unity": "2022.0", 
   "dependencies": {
-    "com.github.asus4.onnxruntime": "1.18.1",
+    "com.github.asus4.onnxruntime": "0.4.0",
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "keywords": [
