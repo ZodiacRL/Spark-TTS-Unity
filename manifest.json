@@ -8,11 +8,9 @@
       ]
     },
     {
-    "name": "GitHub Packages",
-    "url": "https://npm.pkg.github.com",
-    "scopes": [
-      "com.github.asus4"
-    ]
+      "name": "NPM",
+      "url": "https://registry.npmjs.com",
+      "scopes": ["com.github.asus4"]
     }
   ],
   "dependencies": {
