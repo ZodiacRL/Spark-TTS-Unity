@@ -6,6 +6,13 @@
       "scopes": [
         "com.github.asus4"
       ]
+    },
+    {
+    "name": "GitHub Packages",
+    "url": "https://npm.pkg.github.com",
+    "scopes": [
+      "com.github.asus4"
+    ]
     }
   ],
   "dependencies": {
